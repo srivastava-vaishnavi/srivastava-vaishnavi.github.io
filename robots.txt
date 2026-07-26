@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://srivastava-vaishnavi.github.io/sitemap.xml
